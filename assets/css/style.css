@@ -1,0 +1,12 @@
+.portfolioPhoto {
+    background: grey;
+    text-align: center;
+    padding: 5%;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.card-img-overlay {
+    padding-left: 0;
+    padding-right: 0;
+}
